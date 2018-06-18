@@ -1,0 +1,3 @@
+# apt install dirmngr apt-transport-https
+# apt-key adv --keyserver=hkp://keyserver.ubuntu.com --recv-keys 1655A0AB68576280
+deb https://deb.nodesource.com/node_8.x stretch main
